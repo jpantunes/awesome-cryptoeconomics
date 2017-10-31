@@ -112,6 +112,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 ### Podcasts
 1.  [Q&A on Casper](https://etherreview.info/the-ether-review-2-vlad-zamfir-28f95afc8a3c) Vlad Zamfir answering questions regarding Ethereum's Casper PoS
 1.  [PoW attacks](https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-68-kamikaze-attack-block-halving-and-the-perils-of-proof-of-work) Podcast from 2015 on PoW attacks
+1.  [Cryptoeconomics with Vald](https://softwareengineeringdaily.com/2017/10/28/cryptoeconomics-with-vlad-zamfir/) Podcast from 2017 on Cryptoeconomics
 
 ### Whitepapers
 1.  [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
