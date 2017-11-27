@@ -36,13 +36,16 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 ## Articles
 
 ### Introductory
-1.  [Cryptoeconomics for dummies](https://medium.com/@j32804/cryptoeconomics-for-dummies-part-0-7172efa81507)
+1.  [Cryptoeconomics for Dummies](https://medium.com/@j32804/cryptoeconomics-for-dummies-part-0-7172efa81507)
 1.  [Ethereum Madrid's Cryptoeconomics 101](http://slides.com/ethereummadrid/cryptoeconomics101-stablecoin#/) Ethereum Madrid presentation by Sandra Becker
 1.  [Cryptoeconomics 101](https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff)
 1.  [Making Sense of Cryptoeconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669) Making Sense of Cryptoeconomics by Josh Stark
 1.  [What is Cryptoeconomics](https://blockgeeks.com/guides/what-is-cryptoeconomics/) What is Cryptoeconomics, a guide by BlockGeeks
-1.  [How Society Will Be Transformed By CryptoEconomics](https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c)
+1.  [How Society Will Be Transformed By Cryptoeconomics](https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c)
 1.  [Paving the Future of Blockchain Technology](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971)
+1.  [Cryptoeconomics in Context](https://hackernoon.com/cryptoeconomics-in-context-6435ad6839be)
+1.  [Byzantine Political Economy](https://medium.com/@cryptoeconomics/byzantine-political-economy-de25bf8f047e) Essay by RMIT Innovation Hub
+1.  [Beginner's Guide to Institutional Cryptoeconomics](https://medium.com/@cryptoeconomics/the-blockchain-economy-a-beginners-guide-to-institutional-cryptoeconomics-64bf2f2beec4) Essay by RMIT Innovation Hub
 
 ### Consensus Algorithms
 #### PoW - Proof of Work
@@ -58,6 +61,10 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Weak Subjectivity in PoS](https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/) Weak Subjectivity in PoS by Vitalik Buterin
 1.  [The History of Casper - Chapter 1](https://medium.com/@Vlad_Zamfir/the-history-of-casper-part-1-59233819c9a9) Vlad Zamfir's series on the history of Casper, [Chapter 2](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-2-8e09b9d3b780), [Chapter 3](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-3-70fefb1182fc), [Chapter 4](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-4-3855638b5f0e),
   [Chapter 5](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-5-8652959cef58)
+1.  [The Economics of Proof of Stake](https://medium.com/@gertrammeloo/the-economics-of-the-proof-of-stake-consensus-algorithm-e28adf63e9db) by Geert Rammeloo
+1.  [Crash Course on Ethereum Casper](https://blockgeeks.com/guides/ethereum-casper/) by BlockGeeks
+1.  [Comparing Tendermint to Casper](https://blog.cosmos.network/consensus-compare-casper-vs-tendermint-6df154ad56ae) by the Cosmos team
+1.  [Casper 101](https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0) by Jon Choi
 
 #### DPoS - Distributed Proof of Stake
 1.  [DPoS Introduction](https://bitshares.org/technology/delegated-proof-of-stake-consensus/) Introduction to DPoS by Bitshares
@@ -95,6 +102,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [A business guide to Tokenomics](https://medium.com/@wmougayar/tokenomics-a-business-guide-to-token-usage-utility-and-value-b19242053416) by William Mougayar
 1.  [Cryptoasset Valuations](https://medium.com/@cburniske/cryptoasset-valuations-ac83479ffca7) by Chris Burniske
 1.  [Justified Token Value](https://www.frontierfoundry.co/blog/justified-token-value-part-1) by Adrian Jonklaas
+1.  [Market to Transaction Value (MTV)](https://coinmetrics.io/mtv-ratio-part-ii/) by coinmetrics
 
 ### Videos
 1.  [Nothing at stake](https://www.youtube.com/watch?v=pzIl3vmEytY) Introducing the nothing at stake attack
