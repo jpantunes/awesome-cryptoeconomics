@@ -65,6 +65,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Crash Course on Ethereum Casper](https://blockgeeks.com/guides/ethereum-casper/) by BlockGeeks
 1.  [Comparing Tendermint to Casper](https://blog.cosmos.network/consensus-compare-casper-vs-tendermint-6df154ad56ae) by the Cosmos team
 1.  [Casper 101](https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0) by Jon Choi
+1.  [Algorand: Scaling Byzantine Agreements for Cryptocurrencies](https://people.csail.mit.edu/nickolai/papers/gilad-algorand-eprint.pdf) by Gilad et al., SOSP 17, research on incentive-less PoS systems, headed by Prof. Silvio Micali at MIT CSAIL
 
 #### DPoS - Distributed Proof of Stake
 1.  [DPoS Introduction](https://bitshares.org/technology/delegated-proof-of-stake-consensus/) Introduction to DPoS by Bitshares
