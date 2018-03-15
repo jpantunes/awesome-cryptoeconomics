@@ -13,16 +13,17 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
         -   [Introductory](#introductory)
         -   [Game Theory](#game-theory)
         -   [Mechanism Design](#mechanism-design)
+        -   [Cryptographic Primitives](#cryptographic-primitives)
         -   [Consensus Mechanisms](#consensus-mechanisms)
-        -   [Cryptoeconomic Security](#cryptoeconomic-security)
-        -   [Empirical Cryptoeconomics](#empirical-cryptoeconomics)
+        -   [Network Effects](#network-effects)
+        -   [Governance](#governance)        
+        -   [Cryptoeconomic Security](#cryptoeconomic-security)        
         -   [Token Engineering](#token-engineering)
         -   [Cryptoeconomic Primitives](#cryptoeconomic-primitives)
         -   [Tokenomics](#tokenomics)
-        -   [Network Effects](#network-effects)
-        -   [Governance](#governance)
         -   [Stablecoins](#stablecoins)
         -   [State Channels](#state-channels)
+        -   [Empirical Cryptoeconomics](#empirical-cryptoeconomics)
     -   [Videos](#videos)
         -   [Consensus Protocols](#consensus-protocols)
         -   [Cryptoeconomics](#cryptoeconomics)
@@ -81,8 +82,11 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Mechanism Design Theory](https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2007/advanced-economicsciences2007.pdf)
 
 ### Cryptographic Primitives
-/// merkle trees
-/// hashing
+1.  [Cryptographic Primitives](https://en.wikipedia.org/wiki/Cryptographic_primitive) as described in Wikipedia
+1.  [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/) by Dan Boneh and Victor Shoup
+1.  [Ethereum: Signing and Validating](https://medium.com/@angellopozo/ethereum-signing-and-validating-13a2d7cb0ee3)
+1.  [Merkling in Ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/) by Vitalik Buterin
+1.  [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559) by Arvind Narayanan and Jeremy Clark
 
 ### Consensus Mechanisms
 
@@ -118,6 +122,20 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [dBFT vs PoW and PoS](https://www.econotimes.com/Blockchain-project-Antshares-explains-reasons-for-choosing-dBFT-over-PoW-and-PoS-659275) Antshare's (now NEO) views on consensus
 1.  [Intro to Ethermint BFT](https://blog.cosmos.network/a-beginners-guide-to-ethermint-38ee15f8a6f4)
 
+### Network Effects
+1.  [A Note on Metcalfe's Law, Externalities and Ecosystem Splits](http://vitalik.ca/general/2017/07/27/metcalfe.html) by Vitalik Buterin
+1.  [Continuous Token Models: Towards a Million Networks of Value](https://media.consensys.net/exploring-continuous-token-models-towards-a-million-networks-of-value-fff153175776) by Simon de la Rouviere
+1.  [Crypto Tokens:  A breakthrough in open network design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef) by Chris Dixon
+1.  [Bitcoin Network Effects](http://blog.eladgil.com/2017/12/bitcoin-network-effects_11.html)
+1.  [Keepers — Workers that Maintain Blockchain Networks](https://medium.com/@rzurrer/keepers-workers-that-maintain-blockchain-networks-a40182615b66)
+1.  [Smart-Contract Network Effect Fallacy](https://multicoin.capital/2017/08/28/smart-contract-network-effect-fallacy/)
+
+### Governance
+1.  [The Consensus Series, Part I: The Basics of Collectivity](https://blog.coinfund.io/the-consensus-series-part-i-the-basics-of-collectivity-a11d76ff4d5d) and [Addendum](https://buzzrobot.com/consensus-series-addendum-1-what-do-the-robots-want-729349014aee) by Aleksandr Bulkin
+1.  [Governance and Network Effects](https://blog.aragon.one/thoughts-on-governance-and-network-effects-f40fda3e3f98)
+1.  [Notes on Blockchain Governance](https://vitalik.ca/general/2017/12/17/voting.html) by Vitalik Buterin
+1.  [Against On-Chain Governance](https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca) by Vlad Zamfir
+
 ### Cryptoeconomic Security
 1.  [Intro to Cryptoeconomic security](https://blockchainatberkeley.blog/understanding-crypto-economic-security-through-game-theory-526e810c7736) Basic intro to Cryptoeconomic security
 1.  [Anti-fragile Cryptoeconomic systems](https://thecontrol.co/antifragile-cryptoeconomic-systems-f66d72b54128) Anti-fragile Cryptoeconomic Systems
@@ -143,19 +161,16 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [51% Attack](https://en.bitcoin.it/wiki/Majority_attack) Bitcoin.it Wiki explanation
 1.  [Selfish Mining](https://bitcoinmagazine.com/articles/selfish-mining-a-25-attack-against-the-bitcoin-network-1383578440/) a 25% attack against Bitcoin
 1.  [Sybil attack](https://en.wikipedia.org/wiki/Sybil_attack) as described in Wikipedia
-1.  [[Nothing at Stake and Long-range attacks in PoS](https://blog.goldmint.io/nothing-at-stake-and-longrange-attack-in-pos-4ec486f1fc89)
+1.  [Nothing at Stake and Long-range attacks in PoS](https://blog.goldmint.io/nothing-at-stake-and-longrange-attack-in-pos-4ec486f1fc89)
 1.  [$5 wrench Attack](https://xkcd.com/538/) XKCD comic on the cheapest attack on cryptography
-
-### Empirical Cryptoeconomics
-1.  [How manipulation-resistant are Prediction Markets?](https://blog.gnosis.pm/how-manipulation-resistant-are-prediction-markets-710e14033d62) How manipulation-resistant are Prediction Markets? Our Undertaking in Empirical Cryptoeconomics by Gnosis
-1.  [Empirical Cryptoeconomics](https://www.reddit.com/r/ethereum/comments/453sid/empirical_cryptoeconomics/) Vitalik Buterin's post on empirical cryptoeconomics
 
 ### Token Engineering
 1.  [The Emergence of Cryptoeconomic Primitives](https://medium.com/@jacobscott/the-emergence-of-cryptoeconomic-primitives-14ef3300cc10)
 1.  [History Is Rhyming: Fitness Functions & Comparing Blockchain Tokens To The Web](https://hackernoon.com/history-is-rhyming-fitness-functions-comparing-blockchain-tokens-to-the-web-3c117239f4c) by Simon de la Rouviere
 1.  [Introducing Curation Markets: Trade Popularity of Memes & Information ](https://medium.com/@simondlr/introducing-curation-markets-trade-popularity-of-memes-information-with-code-70bf6fed9881) by Simon de la Rouviere
-1.  [Can Blockchains Go Rogue](https://blog.oceanprotocol.com/can-blockchains-go-rogue-5134300ce790) by Trent McConaghy
+1.  [Can Blockchains Go Rogue?](https://blog.oceanprotocol.com/can-blockchains-go-rogue-5134300ce790) by Trent McConaghy
 1.  [Towards a Practice of Token Engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca), with presentation deck [here](https://www.slideshare.net/TrentMcConaghy/towards-a-practice-of-token-engineering) by Trent McConaghy
+1.  [Token Engineering Case Studies](https://blog.oceanprotocol.com/token-engineering-case-studies-b44267e68f4) Analysis of Bitcoin, Design of Ocean Protocol by Trent McConaghy
 
 ### Cryptoeconomic Primitives
 1.  [Token Curated Registries 1.0](https://medium.com/@ilovebagels/token-curated-registries-1-0-61a232f8dac7) by Mike Goldin
@@ -175,20 +190,6 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [On Value, Velocity and Monetary Theory](https://medium.com/blockchannel/on-value-velocity-and-monetary-theory-a-new-approach-to-cryptoasset-valuations-32c9b22e3b6f)
 1.  [The Token Classification Framework: A multi-dimensional tool for understanding and classifying crypto tokens](http://www.untitled-inc.com/the-token-classification-framework-a-multi-dimensional-tool-for-understanding-and-classifying-crypto-tokens/)
 
-### Network Effects
-1.  [A Note on Metcalfe's Law, Externalities and Ecosystem Splits](http://vitalik.ca/general/2017/07/27/metcalfe.html) by Vitalik Buterin
-1.  [Continuous Token Models: Towards a Million Networks of Value](https://media.consensys.net/exploring-continuous-token-models-towards-a-million-networks-of-value-fff153175776) by Simon de la Rouviere
-1.  [Crypto Tokens:  A breakthrough in open network design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef) by Chris Dixon
-1.  [Bitcoin Network Effects](http://blog.eladgil.com/2017/12/bitcoin-network-effects_11.html)
-1.  [Keepers — Workers that Maintain Blockchain Networks](https://medium.com/@rzurrer/keepers-workers-that-maintain-blockchain-networks-a40182615b66)
-1.  [Smart-Contract Network Effect Fallacy](https://multicoin.capital/2017/08/28/smart-contract-network-effect-fallacy/)
-
-### Governance
-1.  [The Consensus Series, Part I: The Basics of Collectivity](https://blog.coinfund.io/the-consensus-series-part-i-the-basics-of-collectivity-a11d76ff4d5d) and [Addendum](https://buzzrobot.com/consensus-series-addendum-1-what-do-the-robots-want-729349014aee) by Aleksandr Bulkin
-1.  [Governance and Network Effects](https://blog.aragon.one/thoughts-on-governance-and-network-effects-f40fda3e3f98)
-1.  [Notes on Blockchain Governance](https://vitalik.ca/general/2017/12/17/voting.html) by Vitalik Buterin
-1.  [Against On-Chain Governance](https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca) by Vlad Zamfir
-
 ### Stablecoins
 1.  [Ethereum Madrid's Cryptoeconomics 101](http://slides.com/ethereummadrid/cryptoeconomics101-stablecoin#/) presentation on Stablecoins by Sandra Becker of Ethereum Madrid
 1.  [An Overview of stablecoins](https://multicoin.capital/2018/01/17/an-overview-of-stablecoins/)
@@ -204,6 +205,10 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Generalised State Channels on Ethereum](https://medium.com/l4-media/generalized-state-channels-on-ethereum-de0357f5fb44)
 1.  [Introducing multi-party state-channels](https://medium.com/@kentaiwasaki/velcron-enabling-multi-party-state-channels-11141e82b2a3)
 1.  [A state-channels adventure with Counterfactual Rick](https://medium.com/spankchain/a-state-channels-adventure-with-counterfactual-rick-part-1-ce68e16252ea) by SpankChain (SFW!)
+
+### Empirical Cryptoeconomics
+1.  [How manipulation-resistant are Prediction Markets?](https://blog.gnosis.pm/how-manipulation-resistant-are-prediction-markets-710e14033d62) How manipulation-resistant are Prediction Markets? Our Undertaking in Empirical Cryptoeconomics by Gnosis
+1.  [Empirical Cryptoeconomics](https://www.reddit.com/r/ethereum/comments/453sid/empirical_cryptoeconomics/) Vitalik Buterin's post on empirical cryptoeconomics
 
 ## Videos
 ### Consensus Protocols
@@ -243,9 +248,11 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Game theory and Network Attacks- How to destroy Bitcoin](https://youtu.be/Y_dBl-iLeMc) by Nadir Akhtar and Aparna Krishnan 11/2017
 1.  [51% Attacks: Pools and Game Theory](https://www.youtube.com/watch?v=LN6Yhm0TMAM)
 1.  [Nothing at stake](https://www.youtube.com/watch?v=pzIl3vmEytY) Introducing the nothing at stake attack
+1.  [Security Considerations of the Casper Protocol](https://www.youtube.com/watch?v=bPQfWTizYpg) Vlad Zamfir at Standford's Blockchain Protocol Analysis and Security Engineering 2017
 
 ### Cryptography
 1.  [Cryptography for Cryptocurrency](https://www.youtube.com/watch?v=Fyqtl7eGQZY)
+1.  [Bitcoin - Cryptographic hash functions](https://www.youtube.com/watch?v=0WiTaBI82Mc)
 
 ### Additional
 1.  [BBC Documentary](https://www.youtube.com/watch?v=y97Ywl7RtUw) Adam Curtis' "Fuck you buddy" BBC documentary
@@ -260,6 +267,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 ## Whitepapers
 ### [Consensus Protocols](#consensus-protocols)
 1.  [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+1.  [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
 1.  [Blockchain Consensus Protocols in the Wild](https://arxiv.org/pdf/1707.01873.pdf)
 1.  [dBFT Whitepaper](https://allquantor.at/blockchainbib/pdf/vukolic2015quest.pdf) The Quest for Scalable Blockchain Fabric: Proof-of-Work vs. BFT Replication by IBM Research
 1.  [Federated Byzantine Agreements](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) by Stellar Development Foundation's David Mazieres
