@@ -5,13 +5,13 @@ Looking for contributors. Submit a pull request if you have something to add :)
 
 _Please check the [contribution guidelines](contributing.md) for info on formatting and writing pull requests._
 
-<!-- MarkdownTOC depth=4 -->
+<!-- MarkdownTOC depth=5 -->
 
 ## Table of Contents
 -   [Cryptoeconomics](#cryptoeconomics)
     -   [Articles](#articles)
         -   [Introductory](#introductory)
-        -   [Game Theory](#game-theory)
+        -   [Game Theory](#game-theory) 
         -   [Mechanism Design](#mechanism-design)
         -   [Cryptographic Primitives](#cryptographic-primitives)
         -   [Consensus Mechanisms](#consensus-mechanisms)
@@ -32,13 +32,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
         -   [Cryptography](#cryptography)
         -   [Additional](#additional)
     -   [Podcasts](#podcasts)
-    -   [Whitepapers](#Whitepapers)
-        -   [Consensus Protocols](#consensus-protocols)
-        -   [Cryptoeconomics](#cryptoeconomics)
-        -   [Cryptoeconomic Security](#cryptoeconomic-security)
-        -   [Token Engineering](#token-engineering)
-        -   [Tokenomics](#tokenomics)
-        -   [Additional](#additional)
+    -   [Whitepapers](#whitepapers)
     -   [Other Resources](#other-resources)
     -   [Blockchain Hacks and Post-mortems](#hacks)
         -   [The DAO](#the-dao)
@@ -265,38 +259,27 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Cryptoeconomic Primitives](https://soundcloud.com/rhys-lindmark/25-trent-mcconaghy-ocean-protocol-cryptoeconomic-primitives-humanitys-future-plan) by Trent McConaghy
 
 ## Whitepapers
-### [Consensus Protocols](#consensus-protocols)
 1.  [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 1.  [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
 1.  [Blockchain Consensus Protocols in the Wild](https://arxiv.org/pdf/1707.01873.pdf)
 1.  [dBFT Whitepaper](https://allquantor.at/blockchainbib/pdf/vukolic2015quest.pdf) The Quest for Scalable Blockchain Fabric: Proof-of-Work vs. BFT Replication by IBM Research
 1.  [Federated Byzantine Agreements](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) by Stellar Development Foundation's David Mazieres
 1.  [Research Paper on PoS vs. Pow](http://bitfury.com/content/5-white-papers-research/pos-vs-pow-1.0.2.pdf) by Bitfury
-
-### [Cryptoeconomics](#cryptoeconomics)
 1.  [Demystifying Incentives in the Consensus Computer](https://eprint.iacr.org/2015/702.pdf)
 1.  [Game Theory approach behind Bitcoin mining](http://ledger.pitt.edu/ojs/index.php/ledger/article/view/96/67)
-
-### [Cryptoeconomic Security](#cryptoeconomic-security)
 1.  [Research Paper on the security model in PoW](https://eprint.iacr.org/2016/555.pdf) by ETH Zurich and others
 1.  [A Note on Limits on Incentive Compatibility and Griefing Factors](http://vitalik.ca/files/extortion_griefing_bounds.pdf)
 1.  [Research Paper on eclipse attacks](https://eprint.iacr.org/2015/263.pdf) on the Bitcoin Network
 1.  [Research Paper on eclipse attacks](http://www.cs.bu.edu/~goldbe/projects/eclipseEth.pdf) on the Ethereum Network
 1.  [Research paper on hashrate-based double spend attack](https://arxiv.org/pdf/1402.2009v1.pdf)
 1.  [Satoshi Risk Tables](https://arxiv.org/pdf/1702.04421.pdf)
-
-### [Token Engineering](#token-engineering)
 1.  [MakerDAO Purple Paper](http://stablecoin.technology/purple.pdf)
 1.  [Sweetbridge Liquidity Protocol](https://blog.sweetbridge.com/sweetbridge-liquidity-protocol-mathematical-specifications-whitepaper-884df39ae854)
 1.  [Bancor Protocol](https://about.bancor.network/static/bancor_protocol_whitepaper_en.pdf)
 1.  [Maker Dai Stablecoin](https://medium.com/@MakerDAO/introducing-the-new-whitepaper-for-the-dai-stablecoin-system-e7c6caabcfc4)
 1.  [Curation Markets](https://docs.google.com/document/d/1VNkBjjGhcZUV9CyC0ccWYbqeOoVKT2maqX0rK3yXB20) by Simon de la Rouviere
-
-### [Tokenomics](#tokenomics)
 1.  [The Economics of BitCoin Price Formation](https://arxiv.org/ftp/arxiv/papers/1405/1405.4498.pdf) This paper analyses the relationship between BitCoin price and supply-demand fundamentals of Bitcoin
 1.  [A Cost of Production Model for Bitcoin](http://www.economicpolicyresearch.org/econ/2015/NSSR_WP_052015.pdf)
-
-### [Additional](#additional)
 1.  [The Bitcoin Backbone Protocol Analysis and Applications](https://eprint.iacr.org/2014/765)
 1.  [Cryptocurrencies without PoW](https://arxiv.org/pdf/1406.5694.pdf)
 
