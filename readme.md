@@ -11,7 +11,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 -   [Cryptoeconomics](#cryptoeconomics)
     -   [Articles](#articles)
         -   [Introductory](#introductory)
-        -   [Game Theory](#game-theory) 
+        -   [Game Theory](#game-theory)
         -   [Mechanism Design](#mechanism-design)
         -   [Cryptographic Primitives](#cryptographic-primitives)
         -   [Consensus Mechanisms](#consensus-mechanisms)
@@ -61,18 +61,21 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [The Blockchain Economy: A beginner’s guide to institutional cryptoeconomics](https://medium.com/@cryptoeconomics/the-blockchain-economy-a-beginners-guide-to-institutional-cryptoeconomics-64bf2f2beec4) by RMIT Blockchain Innovation Hub
 1.  [Cryptoeconomics is Hard Part 1](https://blog.coinfund.io/cryptoeconomics-is-hard-ad401b2428b9), [Part 2](https://blog.coinfund.io/cryptoeconomics-is-hard-part-2-4d522cb3d3a4) and [Part 3](https://blog.coinfund.io/cryptoeconomics-is-hard-market-cap-4833c378a3e0) by Aleksandr Bulkin
 1.  [How to create a cryptoeconomic protocol from scratch](http://mattgoldenberg.net/2016/10/26/vlad-zamfir-how-to-create-a-crypto-economic-protocol-from-scratch/) by Vlad Zamfir
+1.  [Behavioural Crypto-Economics](https://medium.com/berlin-innovation-ventures/behavioral-crypto-economics-6d8befbf2175) the challenge and promise of Blockchain Incentive Design by Elab Verbin
 
 ### Game Theory
+1.  [Introduction to Game Theory](https://towardsdatascience.com/introduction-to-game-theory-part-1-1a812d898e84) Part one of a series by Devin Soni
 1.  [Schelling Point](http://wisdomofcrowds.blogspot.com.es/2010/02/chapter-five-part-iii.html) Introduction to the concept of Schelling Point
 1.  [Nash Equilibria and Schelling Points](http://lesswrong.com/lw/dc7/nash_equilibria_and_schelling_points/)
 1.  [The strategy of conflict book](https://www.amazon.com/Strategy-Conflict-Thomas-C-Schelling-ebook) The Strategy of Conflict
 1.  [Mechanism design (deck)](https://www.slideshare.net/stathisgrigoropoulos/mechanism-design-theory-examples-and-complexity-final) Mechanism design theory examples and complexity
 1.  [Standford's Algorithmic Game Theory lecture series](https://theory.stanford.edu/~tim/f13/f13.html)
 1.  [Cryptocurrency Game Theory](https://blockgeeks.com/guides/cryptocurrency-game-theory/) What is Cryptocurrency Game Theory: A Basic introduction
+1.  [Correlated Equilibria](https://www.quantamagazine.org/in-game-theory-no-clear-path-to-equilibrium-20170718/) In Game Theory, No Clear Path to Equilibrium
 
 ### Mechanism Design
 1.  [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
-1.  [Mechanism Theory](https://web.stanford.edu/~jacksonm/mechtheo.pdf)
+1.  [Mechanism Theory](https://web.stanford.edu/~jacksonm/mechtheo.pdf) paper by Matthew O. Jackson
 1.  [Mechanism Design Theory](https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2007/advanced-economicsciences2007.pdf)
 
 ### Cryptographic Primitives
@@ -131,14 +134,15 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Against On-Chain Governance](https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca) by Vlad Zamfir
 
 ### Cryptoeconomic Security
-1.  [Intro to Cryptoeconomic security](https://blockchainatberkeley.blog/understanding-crypto-economic-security-through-game-theory-526e810c7736) Basic intro to Cryptoeconomic security
-1.  [Anti-fragile Cryptoeconomic systems](https://thecontrol.co/antifragile-cryptoeconomic-systems-f66d72b54128) Anti-fragile Cryptoeconomic Systems
+1.  [Intro to Cryptoeconomic security](https://blockchainatberkeley.blog/understanding-crypto-economic-security-through-game-theory-526e810c7736) Basic intro to cryptoeconomic security
+1.  [Anti-fragile Cryptoeconomic systems](https://thecontrol.co/antifragile-cryptoeconomic-systems-f66d72b54128) Anti-fragile cryptoeconomic Systems
  through game theory
-1.  [Triangle of harm](http://vitalik.ca/general/2017/07/16/triangle_of_harm.html)
+1.  [Triangle of harm](http://vitalik.ca/general/2017/07/16/triangle_of_harm.html) by Vitalik Buterin
 1.  [On Inflation, Transaction Fees and Cryptocurrency Monetary Policy](https://blog.ethereum.org/2016/07/27/inflation-transaction-fees-cryptocurrency-monetary-policy/)  Vitalik Buterin's article on the role of cryptoeconomics in blockchain security
 1.  [Settlement Finality](https://blog.ethereum.org/2016/05/09/on-settlement-finality/) Vitalik Buterin's article on the elusive topic of economic finality
 1.  [Bancor is flawed](http://hackingdistributed.com/2017/06/19/bancor-is-flawed/) Bancor's review by Hacking Distributed
 1.  [To sink front-runners, send submarines](http://hackingdistributed.com/2017/08/28/submarine-sends/) Bancor's front-running woes by Hacking Distributed
+1.  [Bitcoin's security model](https://www.coindesk.com/bitcoins-security-model-deep-dive/) by Jameson Lopp
 
 #### Attacks
 1.  [General article on how attacks work in PoW - Part 1](https://medium.com/@chrshmmmr/an-introduction-to-understanding-attacks-and-dishonesty-on-proof-of-work-blockchains-9e7f547ed4c8) and [Part 2](https://medium.com/@chrshmmmr/a-guide-to-dishonesty-on-pow-blockchains-when-does-double-spending-pays-off-4f1994074b52)
@@ -183,7 +187,10 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Justified Token Value](https://www.frontierfoundry.co/blog/justified-token-value-part-1) by Adrian Jonklaas
 1.  [Understanding Token Velocity](https://multicoin.capital/2017/12/08/understanding-token-velocity/)
 1.  [On Value, Velocity and Monetary Theory](https://medium.com/blockchannel/on-value-velocity-and-monetary-theory-a-new-approach-to-cryptoasset-valuations-32c9b22e3b6f)
-1.  [The Token Classification Framework: A multi-dimensional tool for understanding and classifying crypto tokens](http://www.untitled-inc.com/the-token-classification-framework-a-multi-dimensional-tool-for-understanding-and-classifying-crypto-tokens/)
+1.  [The Token Classification Framework](http://www.untitled-inc.com/the-token-classification-framework-a-multi-dimensional-tool-for-understanding-and-classifying-crypto-tokens/) a multi-dimensional tool for understanding and classifying crypto tokens
+1.  [MV = PQ isn't right for crypto](https://medium.com/@AustereCapital/mv-p-que-love-and-circularity-in-the-time-of-crypto-1626c8ac297f) a case made by Austere Capital
+1.  [The quantitative theory of money for tokens](https://blog.coinfund.io/the-quantity-theory-of-money-for-tokens-dbfbc5472423) a rebuttal of the MV = PQ theory by Warren Weber
+1.  [NVT - network value to transactions ratio](https://coinmetrics.io/mtv-ratio-part-ii/) a market to transaction value proposal by Coinmetrics
 
 ### Stablecoins
 1.  [Ethereum Madrid's Cryptoeconomics 101](http://slides.com/ethereummadrid/cryptoeconomics101-stablecoin#/) presentation on Stablecoins by Sandra Becker of Ethereum Madrid
@@ -193,6 +200,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [The search for a stable cryptocurrency](https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/)
 1.  [An Experiment with Sai, a simple stablecoin](https://blog.makerdao.com/2017/06/05/introducing-sai/) by MakedDAO
 1.  [Maker for Dummies: A Plain English Explanation of the Dai Stablecoin](https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90)
+1.  [Designing a price stable currency](https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5) by Haseeb Qureshi
+1.  [A skeptic view of stablecoins](https://medium.com/@odtorson/that-thing-about-stable-coins-2231bc0a339b)
 
 ### State Channels
 1.  [Compact and very well explained definition](http://www.jeffcoleman.ca/state-channels/)
@@ -204,6 +213,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 ### Empirical Cryptoeconomics
 1.  [How manipulation-resistant are Prediction Markets?](https://blog.gnosis.pm/how-manipulation-resistant-are-prediction-markets-710e14033d62) How manipulation-resistant are Prediction Markets? Our Undertaking in Empirical Cryptoeconomics by Gnosis
 1.  [Empirical Cryptoeconomics](https://www.reddit.com/r/ethereum/comments/453sid/empirical_cryptoeconomics/) Vitalik Buterin's post on empirical cryptoeconomics
+1.  [Testing mechanism design with AI agents](http://incentivai.co/) Tool for Smart Contract testing with [concept paper](http://incentivai.co/incentivai_concept_paper_10032018.pdf) and [intro](https://medium.com/incentivai/introducing-incentivai-41ce8ba87152)
+
 
 ## Videos
 ### Consensus Protocols
@@ -231,6 +242,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Cryptoeconomic Primitives](https://www.youtube.com/watch?v=Mxt-SdfXEKw&t=1598s)
 1.  [Global Scale Research Networks and Cryptoeconomics](https://www.youtube.com/watch?v=G9Bp56y3X8U)
 1.  [Towards a Practice of Token Engineering](https://www.youtube.com/watch?v=Zf-WlBl1dAA) by Trent McConaghy
+1.  [Cryptoeconomic Theory](https://medium.com/@viktorwrites/cryptoeconomic-theory-table-of-contents-311fcf30bc2b) an on-going series by Viktor Makarskyy with [part 1](https://medium.com/blockchannel/cryptoeconomic-theory-basics-of-social-order-2be4c1be89c1), [part 2](https://medium.com/blockchannel/cryptoeconomic-theory-markets-vs-planning-85a76bb2c038), [part 3](https://medium.com/blockchannel/cryptoeconomic-theory-pareto-efficiency-89d34664f9d) and [part 4](https://medium.com/blockchannel/cryptoeconomic-theory-game-theory-basics-fb3a49aab1a8)
 
 ### State Channels
 1.  [The Raiden Network, a technical introduction](https://www.youtube.com/watch?v=aMs0wAFIu7I)
@@ -248,6 +260,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 ### Cryptography
 1.  [Cryptography for Cryptocurrency](https://www.youtube.com/watch?v=Fyqtl7eGQZY)
 1.  [Bitcoin - Cryptographic hash functions](https://www.youtube.com/watch?v=0WiTaBI82Mc)
+1.  [Hashed based signatures](https://blog.cryptographyengineering.com/2018/04/07/hash-based-signatures-an-illustrated-primer/) An illustrated primer
 
 ### Additional
 1.  [BBC Documentary](https://www.youtube.com/watch?v=y97Ywl7RtUw) Adam Curtis' "Fuck you buddy" BBC documentary
@@ -283,6 +296,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [A Cost of Production Model for Bitcoin](http://www.economicpolicyresearch.org/econ/2015/NSSR_WP_052015.pdf)
 1.  [The Bitcoin Backbone Protocol Analysis and Applications](https://eprint.iacr.org/2014/765)
 1.  [Cryptocurrencies without PoW](https://arxiv.org/pdf/1406.5694.pdf)
+1.  [Some Simple Economics of the Blockchain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2874598)
 
 ## Other Resources
 1.  [Casper PoS Discourse](http://ethereumresearch.trydiscourse.com/c/casper) Ethereum Foundation's Discourse channel on Casper
@@ -295,6 +309,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [RIAT - Institute for Future Cryptoeconomics](https://riat.at/Cryptoeconomics/) a research group from Austria
 1.  [Cryptoeconomics Asia](https://cryptoeconomics.asia) is an independent research firm
 1.  [Cryptoeconomics at RMIT University](http://cryptoeconomics.com.au) a research group of economists in Australia
+1.  [Research Institute for Cryptoeconomics](https://www.wu.ac.at/en/cryptoeconomics/) Vienna University of Economics and Business
+1.  [MIT Cryptoeconomics Lab](https://ce.mit.edu) MIT's first cryptoeconomics lab
 
 ## Blockchain Hacks and Post-mortems
 
