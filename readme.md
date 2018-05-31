@@ -62,6 +62,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Cryptoeconomics is Hard Part 1](https://blog.coinfund.io/cryptoeconomics-is-hard-ad401b2428b9), [Part 2](https://blog.coinfund.io/cryptoeconomics-is-hard-part-2-4d522cb3d3a4) and [Part 3](https://blog.coinfund.io/cryptoeconomics-is-hard-market-cap-4833c378a3e0) by Aleksandr Bulkin
 1.  [How to create a cryptoeconomic protocol from scratch](http://mattgoldenberg.net/2016/10/26/vlad-zamfir-how-to-create-a-crypto-economic-protocol-from-scratch/) by Vlad Zamfir
 1.  [Behavioural Crypto-Economics](https://medium.com/berlin-innovation-ventures/behavioral-crypto-economics-6d8befbf2175) the challenge and promise of Blockchain Incentive Design by Elab Verbin
+1.  [Introduction to Blockchain through Cryptoeconomics] (https://blockchainatberkeley.blog/introduction-to-blockchain-through-cryptoeconomics-part-1-bitcoin-369f245067f9) by Zubin Koticha
+1. [The need for an Incentive scheme in Algorand] (https://blockchainatberkeley.blog/the-need-for-an-incentive-scheme-in-algorand-6fe9db45f2a7) by Alexis Guaba, Zubin Koticha
 
 ### Game Theory
 1.  [Introduction to Game Theory](https://towardsdatascience.com/introduction-to-game-theory-part-1-1a812d898e84) Part one of a series by Devin Soni
@@ -161,7 +163,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Sybil attack](https://en.wikipedia.org/wiki/Sybil_attack) as described in Wikipedia
 1.  [Nothing at Stake and Long-range attacks in PoS](https://blog.goldmint.io/nothing-at-stake-and-longrange-attack-in-pos-4ec486f1fc89)
 1.  [$5 wrench Attack](https://xkcd.com/538/) XKCD comic on the cheapest attack on cryptography
-
+1.  [An Exploration of Attack Vectors in Proof-of-Stake](https://drive.google.com/file/d/1JZTRgj357RcgoMxVWLh0_wCRtl6V5N0o/view) Mechanism Labs 
 ### Token Engineering
 1.  [The Emergence of Cryptoeconomic Primitives](https://medium.com/@jacobscott/the-emergence-of-cryptoeconomic-primitives-14ef3300cc10)
 1.  [History Is Rhyming: Fitness Functions & Comparing Blockchain Tokens To The Web](https://hackernoon.com/history-is-rhyming-fitness-functions-comparing-blockchain-tokens-to-the-web-3c117239f4c) by Simon de la Rouviere
