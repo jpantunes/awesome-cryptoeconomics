@@ -134,6 +134,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Governance and Network Effects](https://blog.aragon.one/thoughts-on-governance-and-network-effects-f40fda3e3f98)
 1.  [Notes on Blockchain Governance](https://vitalik.ca/general/2017/12/17/voting.html) by Vitalik Buterin
 1.  [Against On-Chain Governance](https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca) by Vlad Zamfir
+1.  [On Public vs Private Blockchains]https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/) by Vitalik Buterin
 
 ### Cryptoeconomic Security
 1.  [Intro to Cryptoeconomic security](https://blockchainatberkeley.blog/understanding-crypto-economic-security-through-game-theory-526e810c7736) Basic intro to cryptoeconomic security
