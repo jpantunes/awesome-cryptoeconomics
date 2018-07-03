@@ -64,6 +64,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Behavioural Crypto-Economics](https://medium.com/berlin-innovation-ventures/behavioral-crypto-economics-6d8befbf2175) the challenge and promise of Blockchain Incentive Design by Elab Verbin
 1.  [Introduction to Blockchain through Cryptoeconomics](https://blockchainatberkeley.blog/introduction-to-blockchain-through-cryptoeconomics-part-1-bitcoin-369f245067f9) by Zubin Koticha
 1. [The need for an Incentive scheme in Algorand](https://blockchainatberkeley.blog/the-need-for-an-incentive-scheme-in-algorand-6fe9db45f2a7) by Alexis Guaba, Zubin Koticha
+1. [Cryptoeconomics.study](https://cryptoeconomics.study) -- An free and open source book & course on Cryptoeconomics
 
 ### Game Theory
 1.  [Introduction to Game Theory](https://towardsdatascience.com/introduction-to-game-theory-part-1-1a812d898e84) Part one of a series by Devin Soni
