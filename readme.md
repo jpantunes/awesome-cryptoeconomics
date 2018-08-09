@@ -52,6 +52,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Cryptoeconomics in Ethereum's PoW](https://blog.ethereum.org/2016/07/27/inflation-transaction-fees-cryptocurrency-monetary-policy/)
 1.  [PoW and Blockchains](https://www.zurich.ibm.com/dccl/papers/eyal_dccl_slides.pdf) presentation by Prof. Ittay Eyal (IC3)
 1.  [The PoW concept](http://nakamotoinstitute.org/mempool/the-proof-of-work-concept/) article by the Nakamoto Institute
+1.  [ConsensusPedia - An Encylopedia of 29 consensus algorithms](https://hackernoon.com/consensuspedia-an-encyclopedia-of-29-consensus-algorithms-e9c4b4b7d08f) article by the Nakamoto Institute) article by Vasa
 
 #### PoS - Proof of Stake
 1.  [Strengths and Weaknesses of PoS](https://blog.ethereum.org/2014/07/05/stake/) Vitalik Buterin's article on the strengths and weaknesses of staking contrasting to PoW algorithms
