@@ -61,7 +61,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [The Blockchain Economy: A beginner’s guide to institutional cryptoeconomics](https://medium.com/@cryptoeconomics/the-blockchain-economy-a-beginners-guide-to-institutional-cryptoeconomics-64bf2f2beec4) by RMIT Blockchain Innovation Hub
 1.  [Cryptoeconomics is Hard Part 1](https://blog.coinfund.io/cryptoeconomics-is-hard-ad401b2428b9), [Part 2](https://blog.coinfund.io/cryptoeconomics-is-hard-part-2-4d522cb3d3a4) and [Part 3](https://blog.coinfund.io/cryptoeconomics-is-hard-market-cap-4833c378a3e0) by Aleksandr Bulkin
 1.  [How to create a cryptoeconomic protocol from scratch](http://mattgoldenberg.net/2016/10/26/vlad-zamfir-how-to-create-a-crypto-economic-protocol-from-scratch/) by Vlad Zamfir
-1.  [Behavioural Crypto-Economics](https://medium.com/berlin-innovation-ventures/behavioral-crypto-economics-6d8befbf2175) the challenge and promise of Blockchain Incentive Design by Elab Verbin
+1.  [Behavioural Crypto-Economics](https://medium.com/berlin-innovation-ventures/behavioral-crypto-economics-6d8befbf2175) the challenge and promise of Blockchain Incentive Design by Elad Verbin
 1.  [Introduction to Blockchain through Cryptoeconomics](https://blockchainatberkeley.blog/introduction-to-blockchain-through-cryptoeconomics-part-1-bitcoin-369f245067f9) by Zubin Koticha
 1. [The need for an Incentive scheme in Algorand](https://blockchainatberkeley.blog/the-need-for-an-incentive-scheme-in-algorand-6fe9db45f2a7) by Alexis Guaba, Zubin Koticha
 1. [Cryptoeconomics.study](https://cryptoeconomics.study) -- An free and open source book & course on Cryptoeconomics
