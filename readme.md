@@ -301,6 +301,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [The Bitcoin Backbone Protocol Analysis and Applications](https://eprint.iacr.org/2014/765)
 1.  [Cryptocurrencies without PoW](https://arxiv.org/pdf/1406.5694.pdf)
 1.  [Some Simple Economics of the Blockchain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2874598)
+1.  [Crypto-Economics of the Nervos Common Knowledge Base](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0015-ckb-cryptoeconomics/0015-ckb-cryptoeconomics.md)
 
 ## Other Resources
 1.  [Evolution of Trust](https://ncase.me/trust/) Fun interactive game by Nicky Case showing the evolution of group trust over time
