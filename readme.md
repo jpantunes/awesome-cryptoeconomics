@@ -227,7 +227,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Intro to Casper](https://www.youtube.com/watch?v=MyDocEQfBGA) Karl Floersch presenting Ethereum's Casper PoS
 1.  [PoS roundtable](https://www.youtube.com/watch?v=1tdxPzQt4ZI) PoS roundtable with Joseph Poon, Vitalik Buterin, Vlad Zamfir, Dominic Williams, Zack Hess at Cryptoeconomicon 2015
 1.  [PoW roundtable](https://www.youtube.com/watch?v=sADoZx7Ar4A) PoW roundtable with Tim Swanson, Vitalik Buterin and Peter Todd at Cryptoeconomicon 2015
-1.  [Proof of Stake - Technion Cyber and Computer Security Summer School](https://www.youtube.com/watch?v=NRwA-uHkQlU) and [presentation deck](https://vitalik.ca/files/technion2.pdf)
+1.  [Proof of Stake - Technion Cyber and Computer Security Summer School](https://www.youtube.com/watch?v=NRwA-uHkQlU) and [presentation deck](https://vitalik.ca/files/misc_files/technion2.pdf)
 1.  [CESC2017 - Casper Proof of Stake](https://www.youtube.com/watch?v=ycF0WFHY5kc&list=PLSONl1AVlZNVDkdLkn3b_VxY96ENwcm99&index=14)
 1.  [Hangout - Ethereum PoS: Casper FFG In Depth](https://www.youtube.com/watch?v=uQ3IqLDf-oo) and the
 [presentation](https://docs.google.com/presentation/d/1fqnjL-2TqXjhHx8k7HRX7eUYnDK83adnlCLLH8Bk054/edit#slide=id.g2758035b7d_0_0)
