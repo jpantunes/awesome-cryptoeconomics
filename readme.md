@@ -102,7 +102,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 #### PoS - Proof of Stake
 1.  [Strengths and Weaknesses of PoS](https://blog.ethereum.org/2014/07/05/stake/) Vitalik Buterin's article on the strengths and weaknesses of staking contrasting to PoW algorithms
 1.  [PoS Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51) A Proof of Stake Design Philosophy by Vitalik Buterin
-1.  [Ethereum PoS FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQs)
+1.  [Ethereum PoS](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
 1.  [The evolution of PoS](https://cointelegraph.com/news/the-history-and-evolution-of-proof-of-stake) Article on the evolution of PoS by Coin Telegraph
 1.  [Weak Subjectivity in PoS](https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/) Weak Subjectivity in PoS by Vitalik Buterin
 1.  [The History of Casper - Chapter 1](https://medium.com/@Vlad_Zamfir/the-history-of-casper-part-1-59233819c9a9) Vlad Zamfir's series on the history of Casper, [Chapter 2](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-2-8e09b9d3b780), [Chapter 3](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-3-70fefb1182fc), [Chapter 4](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-4-3855638b5f0e),
