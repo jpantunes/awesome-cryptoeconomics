@@ -131,7 +131,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Crypto Tokens: A breakthrough in open network design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef) by Chris Dixon
 1.  [Bitcoin Network Effects](http://blog.eladgil.com/2017/12/bitcoin-network-effects_11.html)
 1.  [Keepers — Workers that Maintain Blockchain Networks](https://medium.com/@rzurrer/keepers-workers-that-maintain-blockchain-networks-a40182615b66)
-1.  [Smart-Contract Network Effect Fallacy](https://multicoin.capital/2017/08/28/smart-contract-network-effect-fallacy/)
+1.  [Smart Contract Network Effect Fallacy](https://multicoin.capital/2017/08/28/network-effect-fallacy/)
 
 ### Governance
 1.  [The Consensus Series, Part I: The Basics of Collectivity](https://blog.coinfund.io/the-consensus-series-part-i-the-basics-of-collectivity-a11d76ff4d5d) by Aleksandr Bulkin
