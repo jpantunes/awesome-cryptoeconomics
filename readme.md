@@ -272,7 +272,6 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [PoW attacks](https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-68-kamikaze-attack-block-halving-and-the-perils-of-proof-of-work) Podcast from 2015 on PoW attacks
 1.  [Cryptoeconomics, Stablecoins, Casper](https://softwareengineeringdaily.com/2017/10/28/cryptoeconomics-with-vlad-zamfir/) with Vlad Zamfir, and corresponding transcript is available [here](https://softwareengineeringdaily.com/wp-content/uploads/2017/10/SED449-Vlad-Zamfir.pdf)
 1.  [Fintech Podcast - Episode 151](https://www.youtube.com/watch?v=CZr6vOwi2Jw) Cryptoeconomics as explained by Dr Chris Berg
-1.  [Cryptoeconomic Primitives](https://soundcloud.com/rhys-lindmark/25-trent-mcconaghy-ocean-protocol-cryptoeconomic-primitives-humanitys-future-plan) by Trent McConaghy
 
 ## Whitepapers
 1.  [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
