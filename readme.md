@@ -141,7 +141,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [On Public vs Private Blockchains](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/) by Vitalik Buterin
 
 ### Cryptoeconomic Security
-1.  [Intro to Cryptoeconomic security](https://blockchainatberkeley.blog/understanding-crypto-economic-security-through-game-theory-526e810c7736) Basic intro to cryptoeconomic security
+1.  [Intro to Cryptoeconomic security](https://medium.com/blockchain-at-berkeley/understanding-crypto-economic-security-through-game-theory-526e810c7736) Basic intro to cryptoeconomic security
 1.  [Anti-fragile Cryptoeconomic systems](https://thecontrol.co/antifragile-cryptoeconomic-systems-f66d72b54128) Anti-fragile cryptoeconomic Systems
  through game theory
 1.  [Triangle of harm](https://vitalik.ca/general/2017/07/16/triangle_of_harm.html) by Vitalik Buterin
