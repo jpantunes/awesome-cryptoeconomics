@@ -267,9 +267,6 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Bitcoin - Cryptographic hash functions](https://www.youtube.com/watch?v=0WiTaBI82Mc)
 1.  [Hashed based signatures](https://blog.cryptographyengineering.com/2018/04/07/hash-based-signatures-an-illustrated-primer/) An illustrated primer
 
-### Additional
-1.  [BBC Documentary](https://www.youtube.com/watch?v=y97Ywl7RtUw) Adam Curtis' "Fuck you buddy" BBC documentary
-
 ## Podcasts
 1.  [Q&A on Casper](https://etherreview.info/the-ether-review-2-vlad-zamfir-28f95afc8a3c) Vlad Zamfir answering questions regarding Ethereum's Casper PoS
 1.  [PoW attacks](https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-68-kamikaze-attack-block-halving-and-the-perils-of-proof-of-work) Podcast from 2015 on PoW attacks
