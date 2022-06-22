@@ -77,6 +77,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 ### Mechanism Design
 1.  [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
 1.  [Mechanism Theory](https://web.stanford.edu/~jacksonm/mechtheo.pdf) paper by Matthew O. Jackson
+1.  [Mechanism Design Theory](https://assets.nobelprize.org/uploads/2018/06/advanced-economicsciences2007-2.pdf)
+1.  [Mechanism Design and Approximation](http://jasonhartline.com/MDnA/MDnA-ch1to8.pdf)
 
 ### Cryptographic Primitives
 1.  [Cryptographic Primitives](https://en.wikipedia.org/wiki/Cryptographic_primitive) as described in Wikipedia
