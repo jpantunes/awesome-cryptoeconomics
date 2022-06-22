@@ -62,7 +62,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Behavioural Crypto-Economics](https://medium.com/berlin-innovation-ventures/behavioral-crypto-economics-6d8befbf2175) the challenge and promise of Blockchain Incentive Design by Elad Verbin
 1.  [Introduction to Blockchain through Cryptoeconomics](https://medium.com/blockchain-at-berkeley/introduction-to-blockchain-through-cryptoeconomics-part-1-bitcoin-369f245067f9) by Zubin Koticha
 1. [The need for an Incentive scheme in Algorand](https://medium.com/blockchain-at-berkeley/the-need-for-an-incentive-scheme-in-algorand-6fe9db45f2a7) by Alexis Guaba, Zubin Koticha
-1. [Cryptoeconomics.study](https://cryptoeconomics.study) -- An free and open source book & course on Cryptoeconomics
+1. [Cryptoeconomics.study](https://cryptoeconomics.study) A free and open source book & course on Cryptoeconomics
 
 ### Game Theory
 1.  [Introduction to Game Theory](https://towardsdatascience.com/introduction-to-game-theory-part-1-1a812d898e84) Part one of a series by Devin Soni
@@ -77,7 +77,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 ### Mechanism Design
 1.  [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
 1.  [Mechanism Theory](https://web.stanford.edu/~jacksonm/mechtheo.pdf) paper by Matthew O. Jackson
-1.  [Mechanism Design Theory](https://assets.nobelprize.org/uploads/2018/06/advanced-economicsciences2007-2.pdf)
+1.  [Mechanism Design Theory](https://nobelprize.org/uploads/2018/06/advanced-economicsciences2007-2.pdf)
 1.  [Mechanism Design and Approximation](http://jasonhartline.com/MDnA/MDnA-ch1to8.pdf)
 
 ### Cryptographic Primitives
@@ -93,7 +93,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [PoW and Blockchains](https://www.zurich.ibm.com/dccl/papers/eyal_dccl_slides.pdf) presentation by Prof. Ittay Eyal (IC3)
 1.  [An Economic Analysis of Difficulty Adjustment Algorithms in PoW Blockchain Systems](https://www.ssrn.com/abstract=3410460) by Noda et al.
 1.  [The PoW concept](https://nakamotoinstitute.org/mempool/the-proof-of-work-concept/) article by the Nakamoto Institute
-1.  [ConsensusPedia - An Encylopedia of 29 consensus algorithms](https://hackernoon.com/consensuspedia-an-encyclopedia-of-29-consensus-algorithms-e9c4b4b7d08f) article by the Nakamoto Institute) article by Vasa
+1.  [ConsensusPedia - An Encylopedia of 29 consensus algorithms](https://hackernoon.com/consensuspedia-an-encyclopedia-of-29-consensus-algorithms-e9c4b4b7d08f) article by Vasa
 1.  [Proof of Work vs Proof of Stake](https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/) by BlockGeeks
 1.  [Vulnerability: Proof of Work vs. Proof of Stake](https://medium.com/@robertgreenfieldiv/vulnerability-proof-of-work-vs-proof-of-stake-f0c44807d18c)
 
@@ -104,8 +104,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Ethereum PoS](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
 1.  [The evolution of PoS](https://cointelegraph.com/news/the-history-and-evolution-of-proof-of-stake) Article on the evolution of PoS by Coin Telegraph
 1.  [Weak Subjectivity in PoS](https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/) Weak Subjectivity in PoS by Vitalik Buterin
-1.  [The History of Casper - Chapter 1](https://medium.com/@Vlad_Zamfir/the-history-of-casper-part-1-59233819c9a9) Vlad Zamfir's series on the history of Casper, [Chapter 2](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-2-8e09b9d3b780), [Chapter 3](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-3-70fefb1182fc), [Chapter 4](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-4-3855638b5f0e),
-  [Chapter 5](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-5-8652959cef58)
+1.  [The History of Casper - Chapter 1](https://medium.com/@Vlad_Zamfir/the-history-of-casper-part-1-59233819c9a9), [Chapter 2](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-2-8e09b9d3b780), [Chapter 3](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-3-70fefb1182fc), [Chapter 4](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-4-3855638b5f0e),
+  [Chapter 5](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-5-8652959cef58) Vlad Zamfir's series on the history of Casper
 1.  [On Stake and Consensus](https://download.wpsoftware.net/bitcoin/pos.pdf)
 1.  [Critic on the PoS Philosophy](https://medium.com/@tuurdemeester/critique-of-buterins-a-proof-of-stake-design-philosophy-49fc9ebb36c6) by Tuur Demeester
 1.  [Extended Summary on Casper](https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0) by Jon Choi
@@ -222,7 +222,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 ## Videos
 ### Consensus Protocols
-1.  [Consensus](https://www.youtube.com/watch?v=fw3WkySh_Ho&t=3606s) Consensus Algorithm - Andreas Antonopoulos
+1.  [Consensus Algorithms](https://www.youtube.com/watch?v=fw3WkySh_Ho&t=3606s) Andreas Antonopoulos
 1.  [Intro to Casper](https://www.youtube.com/watch?v=MyDocEQfBGA) Karl Floersch presenting Ethereum's Casper PoS
 1.  [PoS roundtable](https://www.youtube.com/watch?v=1tdxPzQt4ZI) PoS roundtable with Joseph Poon, Vitalik Buterin, Vlad Zamfir, Dominic Williams, Zack Hess at Cryptoeconomicon 2015
 1.  [PoW roundtable](https://www.youtube.com/watch?v=sADoZx7Ar4A) PoW roundtable with Tim Swanson, Vitalik Buterin and Peter Todd at Cryptoeconomicon 2015
@@ -246,7 +246,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Cryptoeconomic Primitives](https://www.youtube.com/watch?v=Mxt-SdfXEKw&t=1598s)
 1.  [Global Scale Research Networks and Cryptoeconomics](https://www.youtube.com/watch?v=G9Bp56y3X8U)
 1.  [Towards a Practice of Token Engineering](https://www.youtube.com/watch?v=Zf-WlBl1dAA) by Trent McConaghy
-1.  [Cryptoeconomic Theory](https://medium.com/@viktorwrites/cryptoeconomic-theory-table-of-contents-311fcf30bc2b) an on-going series by Viktor Makarskyy with [part 1](https://medium.com/blockchannel/cryptoeconomic-theory-basics-of-social-order-2be4c1be89c1), [part 2](https://medium.com/blockchannel/cryptoeconomic-theory-markets-vs-planning-85a76bb2c038), [part 3](https://medium.com/blockchannel/cryptoeconomic-theory-pareto-efficiency-89d34664f9d) and [part 4](https://medium.com/blockchannel/cryptoeconomic-theory-game-theory-basics-fb3a49aab1a8)
+1.  [Cryptoeconomic Theory](https://medium.com/@viktorwrites/cryptoeconomic-theory-table-of-contents-311fcf30bc2b) [part 1](https://medium.com/blockchannel/cryptoeconomic-theory-basics-of-social-order-2be4c1be89c1), [part 2](https://medium.com/blockchannel/cryptoeconomic-theory-markets-vs-planning-85a76bb2c038), [part 3](https://medium.com/blockchannel/cryptoeconomic-theory-pareto-efficiency-89d34664f9d) and [part 4](https://medium.com/blockchannel/cryptoeconomic-theory-game-theory-basics-fb3a49aab1a8) an on-going series by Viktor Makarskyy
 
 ### State Channels
 1.  [The Raiden Network, a technical introduction](https://www.youtube.com/watch?v=aMs0wAFIu7I)
@@ -292,7 +292,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Bancor Protocol](https://about.bancor.network/static/bancor_protocol_whitepaper_en.pdf)
 1.  [Maker Dai Stablecoin](https://medium.com/@MakerDAO/introducing-the-new-whitepaper-for-the-dai-stablecoin-system-e7c6caabcfc4)
 1.  [Curation Markets](https://docs.google.com/document/d/1VNkBjjGhcZUV9CyC0ccWYbqeOoVKT2maqX0rK3yXB20) by Simon de la Rouviere
-1.  [The Economics of BitCoin Price Formation](https://arxiv.org/ftp/arxiv/papers/1405/1405.4498.pdf) This paper analyses the relationship between BitCoin price and supply-demand fundamentals of Bitcoin
+1.  [The Economics of BitCoin Price Formation](https://arxiv.org/ftp/arxiv/papers/1405/1405.4498.pdf) This paper analyses the relationship between Bitcoin price and supply-demand fundamentals of Bitcoin
 1.  [A Cost of Production Model for Bitcoin](https://www.economicpolicyresearch.org/econ/2015/NSSR_WP_052015.pdf)
 1.  [The Bitcoin Backbone Protocol Analysis and Applications](https://eprint.iacr.org/2014/765)
 1.  [Cryptocurrencies without PoW](https://arxiv.org/pdf/1406.5694.pdf)
@@ -300,7 +300,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Crypto-Economics of the Nervos Common Knowledge Base](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0015-ckb-cryptoeconomics/0015-ckb-cryptoeconomics.md)
 
 ## Other Resources
-1.  [Evolution of Trust](https://ncase.me/trust/) Fun interactive game by Nicky Case showing the evolution of group trust over time
+1.  [Evolution of Trust](https://ncase.me/trust/) fun interactive game by Nicky Case showing the evolution of group trust over time
 1.  [Ethresear.ch Casper research topic](https://ethresear.ch/c/casper)
 1.  [CECS - CryptoEconomics Security Conference](https://cesc.io)
 1.  [Reddit subgroup](https://www.reddit.com/r/cryptoeconomics/)
