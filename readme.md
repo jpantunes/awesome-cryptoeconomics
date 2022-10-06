@@ -63,6 +63,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Introduction to Blockchain through Cryptoeconomics](https://medium.com/blockchain-at-berkeley/introduction-to-blockchain-through-cryptoeconomics-part-1-bitcoin-369f245067f9) by Zubin Koticha
 1. [The need for an Incentive scheme in Algorand](https://medium.com/blockchain-at-berkeley/the-need-for-an-incentive-scheme-in-algorand-6fe9db45f2a7) by Alexis Guaba, Zubin Koticha
 1. [Cryptoeconomics.study](https://cryptoeconomics.study) A free and open source book & course on Cryptoeconomics
+1. [Tokenomics](https://alexbeckett.medium.com/an-introduction-to-token-economics-tokenomics-c6eb9211778f) An introduction to token economics
 
 ### Game Theory
 1.  [Introduction to Game Theory](https://towardsdatascience.com/introduction-to-game-theory-part-1-1a812d898e84) Part one of a series by Devin Soni
