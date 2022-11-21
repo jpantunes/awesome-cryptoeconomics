@@ -74,6 +74,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Standford's Algorithmic Game Theory lecture series](https://theory.stanford.edu/~tim/f13/f13.html)
 1.  [Cryptocurrency Game Theory](https://blockgeeks.com/guides/cryptocurrency-game-theory/) What is Cryptocurrency Game Theory: A Basic introduction
 1.  [Correlated Equilibria](https://www.quantamagazine.org/in-game-theory-no-clear-path-to-equilibrium-20170718/) In Game Theory, No Clear Path to Equilibrium
+1.  [Incentives structures](https://cobie.substack.com/p/incentives-structures)
 1.  [The Art Of Designing Great Incentives](https://coinvise.substack.com/p/how-to-design-great-incentives) A framework to help community leaders encourage collaboration through Social Tokens
 
 ### Mechanism Design
