@@ -63,6 +63,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Introduction to Blockchain through Cryptoeconomics](https://medium.com/blockchain-at-berkeley/introduction-to-blockchain-through-cryptoeconomics-part-1-bitcoin-369f245067f9) by Zubin Koticha
 1. [The need for an Incentive scheme in Algorand](https://medium.com/blockchain-at-berkeley/the-need-for-an-incentive-scheme-in-algorand-6fe9db45f2a7) by Alexis Guaba, Zubin Koticha
 1. [Cryptoeconomics.study](https://cryptoeconomics.study) A free and open source book & course on Cryptoeconomics
+1. [Tokenomics](https://alexbeckett.medium.com/an-introduction-to-token-economics-tokenomics-c6eb9211778f) An introduction to token economics
 
 ### Game Theory
 1.  [Introduction to Game Theory](https://towardsdatascience.com/introduction-to-game-theory-part-1-1a812d898e84) Part one of a series by Devin Soni
@@ -73,6 +74,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Standford's Algorithmic Game Theory lecture series](https://theory.stanford.edu/~tim/f13/f13.html)
 1.  [Cryptocurrency Game Theory](https://blockgeeks.com/guides/cryptocurrency-game-theory/) What is Cryptocurrency Game Theory: A Basic introduction
 1.  [Correlated Equilibria](https://www.quantamagazine.org/in-game-theory-no-clear-path-to-equilibrium-20170718/) In Game Theory, No Clear Path to Equilibrium
+1.  [The Art Of Designing Great Incentives](https://coinvise.substack.com/p/how-to-design-great-incentives) A framework to help community leaders encourage collaboration through Social Tokens
 
 ### Mechanism Design
 1.  [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976)
@@ -183,7 +185,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Tokens 2.0: Curved Token Bonding in Curation Markets](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5) by Simon de la Rouviere
 1.  [Solving Price Discovery Of Non-Rivalrous Goods (with Curved Bonding)](https://medium.com/@simondlr/solving-price-discovery-of-non-rivalrous-goods-with-curved-bonding-27b2186d55d5) by Simon de la Rouviere
 1.  [Hashtag Markets](https://media.consensys.net/hashtag-markets-mashing-together-reddit-schelling-points-tokenisation-autonomous-organisations-ceec3cd3baf0) by Simon de la Rouviere
-1.  [How to Make Bonding Curves for Continuous Token Models](https://hackernoon.com/how-to-make-bonding-curves-for-continuous-token-models-3784653f8b17)
+1.  [How to Make Bonding Curves for Continuous Token Models](https://blog.relevant.community/how-to-make-bonding-curves-for-continuous-token-models-3784653f8b17)
 1.  [Re-Fungible Token (RFT)](https://medium.com/@billyrennekamp/re-fungible-token-rft-297003592769) by Billy Rennekamp
 
 ### Tokenomics
@@ -200,6 +202,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Tokenomics 102](https://crypto.nateliason.com/p/tokenomics-102-supply) Digging Deeper on Supply
 1.  [Tokenomics 103](https://crypto.nateliason.com/p/tokenomics-103-utility) Evaluating Token Utility
 1.  [Tokenomics 104](https://crypto.nateliason.com/p/tokenomics-104-launch) How to Launch a Token
+1.  [Social Token](https://coinvise.mirror.xyz/-8jI4r9zZriROBYpXJXRFZmUeq5d5yGoMxVXBp-Nizs) Three things Creators need to know before making a Social Token for their community
+
 
 ### Stablecoins
 1.  [Ethereum Madrid's Cryptoeconomics 101](https://slides.com/ethereummadrid/cryptoeconomics101-stablecoin#/) presentation on Stablecoins by Sandra Becker of Ethereum Madrid
@@ -223,6 +227,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Empirical Cryptoeconomics](https://www.reddit.com/r/ethereum/comments/453sid/empirical_cryptoeconomics/) Vitalik Buterin's post on empirical cryptoeconomics
 1.  [Testing mechanism design with AI agents](https://incentivai.co/) Tool for Smart Contract testing with [concept paper](https://incentivai.co/incentivai_concept_paper_10032018.pdf) and [intro](https://medium.com/incentivai/introducing-incentivai-41ce8ba87152)
 
+### Regulation
+1. [Considerations for Regulating Crypto](https://a16z.com/2018/05/04/considerations-for-regulating-cryptonetworks/)
 
 ## Videos
 ### Consensus Protocols
