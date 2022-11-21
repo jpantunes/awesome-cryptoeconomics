@@ -198,6 +198,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [MV = PQ isn't right for crypto](https://medium.com/@AustereCapital/mv-p-que-love-and-circularity-in-the-time-of-crypto-1626c8ac297f) a case made by Austere Capital
 1.  [The quantitative theory of money for tokens](https://blog.coinfund.io/the-quantity-theory-of-money-for-tokens-dbfbc5472423) a rebuttal of the MV = PQ theory by Warren Weber
 1.  [NVT - network value to transactions ratio](https://coinmetrics.io/mtv-ratio-part-ii/) a market to transaction value proposal by Coinmetrics
+1.  [All You Need to Know About Tokenomics](https://medium.com/coinmonks/all-you-need-to-know-about-tokenomics-39642fe11d02)
 1.  [Designing Token Economies](https://www.notboring.co/p/designing-token-economies)
 1.  [Tokenomics 101](https://crypto.nateliason.com/p/tokenomics-101) The Basics of Evaluating Cryptocurrencies
 1.  [Tokenomics 102](https://crypto.nateliason.com/p/tokenomics-102-supply) Digging Deeper on Supply
