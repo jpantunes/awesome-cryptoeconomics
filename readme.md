@@ -232,6 +232,14 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Empirical Cryptoeconomics](https://www.reddit.com/r/ethereum/comments/453sid/empirical_cryptoeconomics/) Vitalik Buterin's post on empirical cryptoeconomics
 1.  [Testing mechanism design with AI agents](https://incentivai.co/) Tool for Smart Contract testing with [concept paper](https://incentivai.co/incentivai_concept_paper_10032018.pdf) and [intro](https://medium.com/incentivai/introducing-incentivai-41ce8ba87152)
 
+### Case studies
+1.  [Tokenomics 101](https://tokenomicsdao.xyz/tokenomics101/) by Tokenomics DAO
+1.  [Olympus DAO](https://crypto.nateliason.com/p/olympus-dao) by Nat Eliason
+1.  [Alchemix](https://crypto.nateliason.com/p/alchemix-self-paying-loans) The Mind-Bending Magic of Self-Paying Loans
+1.  [The Curve Wars](https://crypto.nateliason.com/p/curve-wars) DeFi’s Fight for Liquidity
+1.  [StepN](https://crypto.nateliason.com/p/stepn) Will STEPN Bring Crypto to the Masses?
+1.  [Crypto Raiders](https://cryptoraiders.medium.com/crypto-raiders-tokenomics-and-economy-launch-plan-20ab77f44845) Crypto Raiders Tokenomics and Economy Launch Plan
+
 ### Regulation
 1. [Considerations for Regulating Crypto](https://a16z.com/2018/05/04/considerations-for-regulating-cryptonetworks/)
 
