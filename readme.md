@@ -239,6 +239,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [The Curve Wars](https://crypto.nateliason.com/p/curve-wars) DeFi’s Fight for Liquidity
 1.  [StepN](https://crypto.nateliason.com/p/stepn) Will STEPN Bring Crypto to the Masses?
 1.  [Crypto Raiders](https://cryptoraiders.medium.com/crypto-raiders-tokenomics-and-economy-launch-plan-20ab77f44845) Crypto Raiders Tokenomics and Economy Launch Plan
+1.  [EigenLayer](https://www.quillaudits.com/blog/ethereum/eigenlayer-restaking) Restaking Effect on Ethereum's Security and Rewarding Mechanisms 
 
 ### Regulation
 1. [Considerations for Regulating Crypto](https://a16z.com/2018/05/04/considerations-for-regulating-cryptonetworks/)
