@@ -334,6 +334,8 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Cryptoeconomics at RMIT University](http://cryptoeconomics.com.au) a research group of economists in Australia
 1.  [Research Institute for Cryptoeconomics](https://www.wu.ac.at/en/cryptoeconomics/) Vienna University of Economics and Business
 1.  [MIT Cryptoeconomics Lab](https://ce.mit.edu) MIT's first cryptoeconomics lab
+2.  [NVSTly](https://nvstly.com) is a free, interactive social investing platform where traders can track, share, & copy trades in real-time with extensive insights & in-depth performance stats
+3.  [Discord Server](https://discord.com/invite/rhAvzyzk9J) a free community of investors/traders of all experience levels sharing analysis, ideas, strategies, news, & more
 
 ## Blockchain Hacks and Post-mortems
 
