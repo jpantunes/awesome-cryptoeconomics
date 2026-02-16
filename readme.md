@@ -209,6 +209,11 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Tokenomics 103](https://crypto.nateliason.com/p/tokenomics-103-utility) Evaluating Token Utility
 1.  [Tokenomics 104](https://crypto.nateliason.com/p/tokenomics-104-launch) How to Launch a Token
 1.  [Social Token](https://coinvise.mirror.xyz/-8jI4r9zZriROBYpXJXRFZmUeq5d5yGoMxVXBp-Nizs) Three things Creators need to know before making a Social Token for their community
+1.  [How to Design Tokenomics: A Framework from 20+ Projects](https://cryptoeconlab.com/blog/tokenomics-design-framework) Practical step-by-step framework for token economy design covering supply models, distribution, incentive mechanisms, and stress-testing
+1.  [Token Emission Schedules Explained](https://cryptoeconlab.com/blog/token-emission-schedules) Comparison of linear, exponential decay, and demand-based emission models with tradeoff analysis
+1.  [Token Vesting Schedules: What Actually Works](https://cryptoeconlab.com/blog/token-vesting-schedules) Analysis of vesting structures across dozens of protocols, covering cliff periods, unlock shapes, and common failure modes
+1.  [Tokenomics Red Flags: What Investors Actually Check](https://cryptoeconlab.com/blog/tokenomics-red-flags) Guide to identifying common tokenomics design failures from a fund due diligence perspective
+1.  [veTokenomics Explained](https://cryptoeconlab.com/blog/vetokenomics-explained) Deep dive into the vote-escrow token model, its mechanics, bribe markets, and governance concentration dynamics
 
 ### Stablecoins
 1.  [Ethereum Madrid's Cryptoeconomics 101](https://slides.com/ethereummadrid/cryptoeconomics101-stablecoin#/) presentation on Stablecoins by Sandra Becker of Ethereum Madrid
@@ -322,6 +327,11 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Cryptocurrencies without PoW](https://arxiv.org/pdf/1406.5694.pdf)
 1.  [Some Simple Economics of the Blockchain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2874598)
 1.  [Crypto-Economics of the Nervos Common Knowledge Base](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0015-ckb-cryptoeconomics/0015-ckb-cryptoeconomics.md)
+
+## Tools & Simulators
+1.  [Token Emission Simulator](https://cryptoeconlab.com/token-emission-simulator) Interactive tool for modeling token emission curves, vesting schedules, and circulating supply projections
+1.  [veTokenomics Simulator](https://cryptoeconlab.com/vetokenomics-simulator) Interactive simulator for vote-escrow token mechanics and governance capture cost analysis
+1.  [stETH Depeg CDP Simulator](https://cryptoeconlab.com/steth-depeg-simulator) Simulator for analyzing cascading liquidation risks in stETH-backed CDPs during depeg scenarios
 
 ## Other Resources
 1.  [Evolution of Trust](https://ncase.me/trust/) fun interactive game by Nicky Case showing the evolution of group trust over time
