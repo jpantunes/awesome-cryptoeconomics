@@ -226,6 +226,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Generalised State Channels on Ethereum](https://medium.com/l4-media/generalized-state-channels-on-ethereum-de0357f5fb44)
 1.  [Introducing multi-party state-channels](https://medium.com/@kentaiwasaki/velcron-enabling-multi-party-state-channels-11141e82b2a3)
 1.  [A state-channels adventure with Counterfactual Rick](https://medium.com/spankchain/a-state-channels-adventure-with-counterfactual-rick-part-1-ce68e16252ea) by SpankChain (SFW!)
+1.  [SuperScalar](https://github.com/8144225309/SuperScalar) Lightning channel factory implementation in C, onboards N users in one shared UTXO using MuSig2 and Taproot, no soft fork required
 
 ### Empirical Cryptoeconomics
 1.  [How manipulation-resistant are Prediction Markets?](https://blog.gnosis.pm/how-manipulation-resistant-are-prediction-markets-710e14033d62) How manipulation-resistant are Prediction Markets? Our Undertaking in Empirical Cryptoeconomics by Gnosis
