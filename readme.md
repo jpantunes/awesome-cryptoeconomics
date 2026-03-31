@@ -334,6 +334,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Cryptoeconomics at RMIT University](http://cryptoeconomics.com.au) a research group of economists in Australia
 1.  [Research Institute for Cryptoeconomics](https://www.wu.ac.at/en/cryptoeconomics/) Vienna University of Economics and Business
 1.  [MIT Cryptoeconomics Lab](https://ce.mit.edu) MIT's first cryptoeconomics lab
+1.  [PredScope](https://predscope.com) Prediction market analytics platform with live odds, volume tracking, and free API for Polymarket data
 
 ## Blockchain Hacks and Post-mortems
 
