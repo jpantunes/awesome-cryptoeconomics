@@ -255,6 +255,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Hangout - Ethereum PoS: Casper FFG In Depth](https://www.youtube.com/watch?v=uQ3IqLDf-oo) and the
 [presentation](https://docs.google.com/presentation/d/1fqnjL-2TqXjhHx8k7HRX7eUYnDK83adnlCLLH8Bk054/edit#slide=id.g2758035b7d_0_0)
 1.  [Hangout - Ethereum PoS: Casper & Smart Contract Consensus Overview](https://www.youtube.com/watch?v=MyDocEQfBGA) and the [presentation deck](https://docs.google.com/presentation/d/1MTb9myfNIQzjMs6QdW2NrtmtzeCexEAiLUpLJZJRKoU/edit#slide=id.g35f391192_00)
+- [7/Seven Chain Node](https://github.com/umairkhan2582/seven-chain-node) - Validator node for 7/Seven Chain (Chain ID: 70007), an EVM-compatible blockchain (BSC/Parlia fork) powering [TheSeven.meme](https://theseven.meme) — world's first on-chain perpetual futures exchange with 100+ pairs, up to 2001× leverage, and zero trading fees.
 
 ### Cryptoeconomics
 1.  [Game Theory in Bitcoin](https://www.youtube.com/watch?v=_VANRj3WpdY) Game Theory approach behind the motivation for Bitcoin mining
